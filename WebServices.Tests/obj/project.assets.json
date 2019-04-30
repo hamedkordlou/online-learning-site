@@ -5861,11 +5861,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\DotnetCore\\online-learning-site\\OnlineLearningTests\\OnlineLearningTests.csproj",
-      "projectName": "OnlineLearningTests",
-      "projectPath": "E:\\Projects\\DotnetCore\\online-learning-site\\OnlineLearningTests\\OnlineLearningTests.csproj",
+      "projectUniqueName": "E:\\Projects\\DotnetCore\\online-learning-site\\WebServices.Tests\\WebServices.Tests.csproj",
+      "projectName": "WebServices.Tests",
+      "projectPath": "E:\\Projects\\DotnetCore\\online-learning-site\\WebServices.Tests\\WebServices.Tests.csproj",
       "packagesPath": "C:\\Users\\hamed\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\DotnetCore\\online-learning-site\\OnlineLearningTests\\obj\\",
+      "outputPath": "E:\\Projects\\DotnetCore\\online-learning-site\\WebServices.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

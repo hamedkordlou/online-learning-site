@@ -12096,11 +12096,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\DotnetCore\\online-learning-site\\OnlineLearning\\OnlineLearning.csproj",
-      "projectName": "OnlineLearning",
-      "projectPath": "E:\\Projects\\DotnetCore\\online-learning-site\\OnlineLearning\\OnlineLearning.csproj",
+      "projectUniqueName": "E:\\Projects\\DotnetCore\\online-learning-site\\WebServices\\WebServices.csproj",
+      "projectName": "WebServices",
+      "projectPath": "E:\\Projects\\DotnetCore\\online-learning-site\\WebServices\\WebServices.csproj",
       "packagesPath": "C:\\Users\\hamed\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\DotnetCore\\online-learning-site\\OnlineLearning\\obj\\",
+      "outputPath": "E:\\Projects\\DotnetCore\\online-learning-site\\WebServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

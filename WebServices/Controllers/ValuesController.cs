@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace OnlineLearning.Controllers
+namespace WebServices.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
